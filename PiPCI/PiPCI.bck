@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PiGPIOHeader
+D GPIO Header for RPI
+K connector
+$ENDCMP
+#
+#End Doc Library
